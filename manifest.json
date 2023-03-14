@@ -1,0 +1,26 @@
+{
+ "dir": "auto",
+ "scope": "/",
+ "name": "Karne Palta",
+ "lang": "es",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#e85112",
+ "description": "Ropa Customizada",
+ "orientation": "portrait",
+ "icons": [
+  {
+   "src": "assets/img/favicon.png",
+   "sizes": "32x32",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "assets/img/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image\/png",
+   "density": "4.0"
+  }
+ ]
+}
